@@ -1,0 +1,6 @@
+--2026-11-23 20:49:02--  https://i.pravatar.cc/300
+Resolving i.pravatar.cc (i.pravatar.cc)... 104.21.6.24, 172.67.154.150, 2606:4700:3035::6815:618, ...
+Connecting to i.pravatar.cc (i.pravatar.cc)|104.21.6.24|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2026-11-23 20:49:07 ERROR 403: Forbidden.
+
