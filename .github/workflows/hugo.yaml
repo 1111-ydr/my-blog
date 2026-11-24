@@ -1,4 +1,4 @@
-cat > .github/workflows/hugo.yaml << 'EOF'
+
 name : Deploy Hugo to GitHub Pages
 on:
   push:
@@ -34,5 +34,5 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
           publish_branch: gh-pages
-EOF
+
 
